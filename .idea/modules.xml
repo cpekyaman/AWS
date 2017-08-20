@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-serverless.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-serverless.iml" />
+      <module fileurl="file://$PROJECT_DIR$/udemy-serverless-client/udemy-serverless-client.iml" filepath="$PROJECT_DIR$/udemy-serverless-client/udemy-serverless-client.iml" />
     </modules>
   </component>
 </project>
