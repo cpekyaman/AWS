@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1= data
+  p This was returned from get : #{data}
+  form(action='/assignment', method='post')
+    input(type='submit', value='Post Data')
