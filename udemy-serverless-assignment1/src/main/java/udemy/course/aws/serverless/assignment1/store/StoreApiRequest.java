@@ -1,9 +1,9 @@
-package udemy.course.aws.serverless.post;
+package udemy.course.aws.serverless.assignment1.store;
 
 /**
  * Created by raistlin on 8/19/2017.
  */
-public class RequestClass {
+public class StoreApiRequest {
     private String firstName;
     private String lastName;
 

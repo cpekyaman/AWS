@@ -1,16 +1,16 @@
-package udemy.course.aws.serverless.post;
+package udemy.course.aws.serverless.assignment1.store;
 
 /**
  * Created by raistlin on 8/19/2017.
  */
-public class ResponseClass {
+public class StoreApiResponse {
     private String name;
     private Integer age;
 
-    public ResponseClass() {
+    public StoreApiResponse() {
     }
 
-    public ResponseClass(String name, Integer age) {
+    public StoreApiResponse(String name, Integer age) {
         this.name = name;
         this.age = age;
     }

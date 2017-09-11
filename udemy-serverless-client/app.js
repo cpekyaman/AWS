@@ -6,7 +6,11 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var index = require('./routes/index');
+var router = express.Router();
+
+require('./routes/index')(router);
+require('./routes/firstAssignment')(router);
+require('./routes/compareData')(router);
 
 var app = express();
 
@@ -22,7 +26,11 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', index);
+app.use(router);
+
+app.use('/js', express.static(__dirname + '/node_modules/bootstrap/dist/js'));
+app.use('/js', express.static(__dirname + '/node_modules/jquery/dist'));
+app.use('/css', express.static(__dirname + '/node_modules/bootstrap/dist/css'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
@@ -32,7 +40,7 @@ app.use(function(req, res, next) {
 });
 
 // error handler
-app.use(function(err, req, res, next) {
+app.use(function(err, req, res) {
   // set locals, only providing error in development
   res.locals.message = err.message;
   res.locals.error = req.app.get('env') === 'development' ? err : {};

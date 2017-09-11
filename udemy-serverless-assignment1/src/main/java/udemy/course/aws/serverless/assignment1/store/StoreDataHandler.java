@@ -1,4 +1,4 @@
-package udemy.course.aws.serverless.post;
+package udemy.course.aws.serverless.assignment1.store;
 
 import com.amazonaws.services.lambda.runtime.Context;
 import com.amazonaws.services.lambda.runtime.RequestHandler;
@@ -6,11 +6,11 @@ import com.amazonaws.services.lambda.runtime.RequestHandler;
 /**
  * Created by raistlin on 8/19/2017.
  */
-public class StoreDataHandler implements RequestHandler<RequestClass, ResponseClass> {
+public class StoreDataHandler implements RequestHandler<StoreApiRequest, StoreApiResponse> {
     @Override
-    public ResponseClass handleRequest(RequestClass input, Context context) {
+    public StoreApiResponse handleRequest(StoreApiRequest input, Context context) {
         String fullName = input.getFirstName() + " " + input.getLastName();
         context.getLogger().log("Input: " + fullName);
-        return new ResponseClass(fullName, 37);
+        return new StoreApiResponse(fullName, 37);
     }
 }
