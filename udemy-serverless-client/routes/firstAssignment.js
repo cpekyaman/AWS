@@ -7,7 +7,7 @@ var api = {
 
 function fetchAssignment(req, res) {
     request(api.fetchUrl, function(error, response, body) {
-        res.render('firstAssignment/fetchData', JSON.parse(body));
+        res.render('firstAssignment/form', JSON.parse(body));
     });
 }
 
@@ -20,7 +20,7 @@ function postAssignment(req, res) {
         }
     }, function(error,response,body) {
         console.log(body);
-        res.render('firstAssignment/showData', body);
+        res.render('firstAssignment/result', body);
     });
 }
 

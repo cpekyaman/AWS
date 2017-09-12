@@ -10,6 +10,7 @@ var router = express.Router();
 
 require('./routes/index')(router);
 require('./routes/firstAssignment')(router);
+require('./routes/secondAssignment')(router);
 require('./routes/compareData')(router);
 
 var app = express();

@@ -1,0 +1,22 @@
+extends ../layout
+
+block content
+  .main.container
+    .row
+      .col-md-6.col-md-offset-3
+        h1.display-4.m-b-2= title
+
+        form(action='/assignment2', method='post')
+          div.form-group
+            label(for='name') Name :
+            input#name.form-control(type='text', name='name')
+          div.form-group
+            label(for='age') Age :
+            input#age.form-control(type='text', name='age')
+          div.form-group
+            label(for='height') Height :
+            input#height.form-control(type='text', name='height')
+          div.form-group
+            label(for='income') Income :
+            input#income.form-control(type='text', name='income')
+          button.btn.btn-primary(type='submit') Post Data

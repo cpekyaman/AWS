@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-serverless.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-serverless.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-serverless-assignment1.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-serverless-assignment1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/udemy-serverless-assignment2.iml" filepath="$PROJECT_DIR$/.idea/modules/udemy-serverless-assignment2.iml" />
       <module fileurl="file://$PROJECT_DIR$/udemy-serverless-client/udemy-serverless-client.iml" filepath="$PROJECT_DIR$/udemy-serverless-client/udemy-serverless-client.iml" />
     </modules>
   </component>
