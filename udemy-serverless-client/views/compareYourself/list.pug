@@ -1,0 +1,16 @@
+extends ../../node_modules/pug-bootstrap/layouts/bootswatch
+
+block body
+    .container
+        h1= title
+        p Welcome to #{title}
+        table.table.table-bordered.table-striped
+            thead
+                tr
+                    each head in header
+                        th #{head}
+            tbody
+                each row in data
+                    tr
+                        each col in row
+                            td #{col}

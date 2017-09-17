@@ -1,0 +1,19 @@
+extends ../../node_modules/pug-bootstrap/layouts/bootswatch
+
+block body
+    .container
+        h1= title
+        form(action='/compare', method='post')
+            div.form-group
+                label(for='username') UserName :
+                input#username.form-control(type='text', name='username', value=(data.username ? data.username : ''))
+            div.form-group
+                label(for='age') Age :
+                input#age.form-control(type='text', name='age', value=(data.age ? data.age : ''))
+            div.form-group
+                label(for='height') Height :
+                input#height.form-control(type='text', name='height', value=(data.height ? data.height : ''))
+            div.form-group
+                label(for='income') Income :
+                input#income.form-control(type='text', name='income', value=(data.income ? data.income : ''))
+            button.btn.btn-primary(type='submit') #{submitAction}
