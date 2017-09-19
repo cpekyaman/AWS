@@ -2,15 +2,20 @@ extends ../../node_modules/pug-bootstrap/layouts/bootswatch
 
 block body
     .container
-        h1= title
-        p Welcome to #{title}
-        table.table.table-bordered.table-striped
-            thead
-                tr
-                    each head in header
-                        th #{head}
-            tbody
-                each row in data
+        .col-md-8.col-md-offset-2
+            h1= title
+            p Welcome to #{title}
+            table.table.table-bordered.table-striped
+                thead
                     tr
-                        each col in row
-                            td #{col}
+                        each head in header
+                            th #{head}
+                tbody
+                    each row in data
+                        tr
+                            each col,i in row
+                                if i == 0
+                                    td
+                                        a.btn.btn-sm.btn-primary(href=`/compare/${col}/form`) #{col}
+                                else
+                                    td #{col}

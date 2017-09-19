@@ -16,14 +16,6 @@ function listData(req, res) {
     });
 }
 
-function showForm(req, res) {
-    if(req.query.user) {
-        updateForm(req, res);
-    } else {
-        createForm(req, res);
-    }
-}
-
 function createForm(req, res) {
     res.render('compareYourself/form', {
         title : "Create User Data",
@@ -33,13 +25,19 @@ function createForm(req, res) {
 }
 
 function updateForm(req, res) {
-    request(api.getUrl, function(error, response, body) {
+    //request(api.getUrl, function(error, response, body) {
         res.render('compareYourself/form', {
             title : "Update User Data",
             submitAction : 'Update',
-            data : JSON.parse(body)
+            data : {
+                id : 1,
+                username : "cenk",
+                age : 37,
+                height: 170,
+                income: 5000
+            }
         });
-    });
+    //});
 }
 
 function create(req, res) {
@@ -52,7 +50,8 @@ function update(req, res) {
 
 module.exports = function(router) {
     router.get('/compare', listData);
-    router.get('/compare/form', showForm);
+    router.get('/compare/form', createForm);
+    router.get('/compare/:id/form', updateForm);
 
     router.post('/compare', create);
     router.put('/compare', update);
