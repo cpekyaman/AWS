@@ -1,0 +1,15 @@
+extends ../../node_modules/pug-bootstrap/layouts/bootswatch
+
+block body
+    .container
+        .row
+            .col-md-8.col-md-offset-2
+                h1= title
+                form(action='/compare/signin', method='post')
+                    div.form-group
+                        label(for='username') UserName :
+                        input#username.form-control(type='text', name='username')
+                    div.form-group
+                        label(for='password') Password :
+                        input#password.form-control(type='secret', name='password')
+                    button.btn.btn-primary(type='submit') SignIn

@@ -48,11 +48,17 @@ function update(req, res) {
 
 }
 
+function remove(req, res) {
+
+}
+
 module.exports = function(router) {
     router.get('/compare', listData);
     router.get('/compare/form', createForm);
     router.get('/compare/:id/form', updateForm);
 
     router.post('/compare', create);
-    router.put('/compare', update);
+    router.put('/compare/:id', update);
+
+    router.delete('/compare/:id', remove);
 };

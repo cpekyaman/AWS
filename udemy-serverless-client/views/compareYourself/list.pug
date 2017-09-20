@@ -10,6 +10,7 @@ block body
                     tr
                         each head in header
                             th #{head}
+                        th Actions
                 tbody
                     each row in data
                         tr
@@ -19,3 +20,6 @@ block body
                                         a.btn.btn-sm.btn-primary(href=`/compare/${col}/form`) #{col}
                                 else
                                     td #{col}
+                            td
+                                a.btn.btn-sm.btn-danger(href=`/compare/${row[0]}`) X
+

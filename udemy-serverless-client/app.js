@@ -9,6 +9,7 @@ var bodyParser = require('body-parser');
 var router = express.Router();
 
 require('./routes/index')(router);
+require('./routes/auth')(router);
 require('./routes/firstAssignment')(router);
 require('./routes/secondAssignment')(router);
 require('./routes/compareYourself')(router);
