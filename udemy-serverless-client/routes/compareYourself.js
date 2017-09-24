@@ -1,4 +1,5 @@
 var request = require('request');
+var auth = require('../routes/auth');
 
 var api = {
     getUrl : 'https://stu4e8uoh2.execute-api.us-east-2.amazonaws.com/dev/compare-yourself',
@@ -7,12 +8,14 @@ var api = {
 };
 
 function listData(req, res) {
-    res.render('compareYourself/list', {
-        title : "Compare Yourself",
-        header : ["#","User Name","Age","Height","Income"],
-        data : [
-            ["1", "cenk", 37, 170, 5000]
-        ]
+    auth.executeWithToken(function(token) {
+        res.render('compareYourself/list', {
+            title : "Compare Yourself",
+            header : ["#","User Name","Age","Height","Income"],
+            data : [
+                ["1", "cenk", 37, 170, 5000]
+            ]
+        });
     });
 }
 
@@ -52,13 +55,15 @@ function remove(req, res) {
 
 }
 
-module.exports = function(router) {
-    router.get('/compare', listData);
-    router.get('/compare/form', createForm);
-    router.get('/compare/:id/form', updateForm);
+module.exports = {
+    route : function(router) {
+        router.get('/compare', listData);
+        router.get('/compare/form', createForm);
+        router.get('/compare/:id/form', updateForm);
 
-    router.post('/compare', create);
-    router.put('/compare/:id', update);
+        router.post('/compare', create);
+        router.put('/compare/:id', update);
 
-    router.delete('/compare/:id', remove);
+        router.delete('/compare/:id', remove);
+    }
 };

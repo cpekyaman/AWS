@@ -5,11 +5,11 @@ block body
         .row
             .col-md-8.col-md-offset-2
                 h1= title
-                form(action='/auth/signin', method='post')
+                form(action='/auth/confirm', method='post')
                     div.form-group
                         label(for='username') UserName :
                         input#username.form-control(type='text', name='username')
                     div.form-group
-                        label(for='password') Password :
-                        input#password.form-control(type='password', name='password')
-                    button.btn.btn-primary(type='submit') SignIn
+                        label(for='code') Code :
+                        input#code.form-control(type='text', name='code')
+                    button.btn.btn-primary(type='submit') Confirm

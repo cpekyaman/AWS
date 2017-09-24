@@ -9,10 +9,11 @@ var bodyParser = require('body-parser');
 var router = express.Router();
 
 require('./routes/index')(router);
-require('./routes/auth')(router);
 require('./routes/firstAssignment')(router);
 require('./routes/secondAssignment')(router);
-require('./routes/compareYourself')(router);
+
+require('./routes/auth').route(router);
+require('./routes/compareYourself').route(router);
 
 var app = express();
 
@@ -30,9 +31,16 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use(router);
 
+// for bootstrap
 app.use('/js', express.static(__dirname + '/node_modules/bootstrap/dist/js'));
 app.use('/js', express.static(__dirname + '/node_modules/jquery/dist'));
 app.use('/css', express.static(__dirname + '/node_modules/bootstrap/dist/css'));
+
+// for pug-bootstrap
+app.use('/css', express.static(__dirname + '/node_modules/pug-bootstrap/css'));
+
+// for aws
+app.use('/js', express.static(__dirname + '/node_modules/amazon-cognito-identity-js/dist'));
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
