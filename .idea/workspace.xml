@@ -1,0 +1,2239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b939162d-90fd-4ba1-88b8-b9aa02cafc2d" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/udemy-serverless/.gradle/" />
+    <ignored path="$PROJECT_DIR$/udemy-serverless/build/" />
+    <ignored path="$PROJECT_DIR$/udemy-serverless-assignment1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/udemy-serverless-assignment1/build/" />
+    <ignored path="$PROJECT_DIR$/udemy-serverless-assignment2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/udemy-serverless-assignment2/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$/udemy-serverless">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/udemy-serverless-assignment1">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/udemy-serverless-assignment2">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/udemy-serverless">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <PATH>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ExternalProjectsStructure$RootNode" />
+              </PATH_ELEMENT>
+              <PATH_ELEMENT>
+                <option name="myItemId" value="udemy-serverless" />
+                <option name="myItemType" value="com.intellij.openapi.externalSystem.view.ProjectNode" />
+              </PATH_ELEMENT>
+            </PATH>
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="signup.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/auth/signup.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udemy-serverless-client/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signin.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/auth/signin.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udemy-serverless-client/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="compareYourself.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/udemy-serverless-client/routes/compareYourself.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="auth.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udemy-serverless-client/routes/auth.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2700">
+              <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="confirm.pug" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/auth/confirm.pug">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="100">
+              <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>https://hjb1ovxamh.execute-api.us-east-2.amazonaws.com/dev</find>
+      <find>firstAssignment</find>
+      <find>username</find>
+      <find>cognitoUser</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>secondAssignment</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$/udemy-serverless" value="E:\REPO\Gradle\wrapper\dists\gradle-3.3-all\55gk2rcmfc6p2dg9u9ohc3hw9\gradle-3.3" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment1" value="C:\Raistlin\Development\Java\Tools\Gradle\gradle-3.1" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment2" value="C:\Raistlin\Development\Java\Tools\Gradle\gradle-3.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$/udemy-serverless" value="3.3" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment1" value="3.1" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment2" value="3.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="udemy-serverless" />
+              <option name="path" value="$PROJECT_DIR$/udemy-serverless" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="udemy-serverless" />
+                <option name="path" value="$PROJECT_DIR$/udemy-serverless" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="udemy-serverless-assignment1" />
+              <option name="path" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="udemy-serverless-assignment1" />
+                <option name="path" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="udemy-serverless-assignment2" />
+              <option name="path" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="udemy-serverless-assignment2" />
+                <option name="path" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$/udemy-serverless">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'udemy-serverless'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'udemy-serverless'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'udemy-serverless'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'udemy-serverless'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'udemy-serverless'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'udemy-serverless'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="buildZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'udemy-serverless'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'udemy-serverless'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'udemy-serverless'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment1">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'udemy-serverless-assignment1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'udemy-serverless-assignment1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'udemy-serverless-assignment1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'udemy-serverless-assignment1'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'udemy-serverless-assignment1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="buildZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'udemy-serverless-assignment1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'udemy-serverless-assignment1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'udemy-serverless-assignment1'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment2">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'udemy-serverless-assignment2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'udemy-serverless-assignment2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'udemy-serverless-assignment2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'udemy-serverless-assignment2'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'udemy-serverless-assignment2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="buildZip" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'udemy-serverless-assignment2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'udemy-serverless-assignment2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'udemy-serverless-assignment2'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/udemy-serverless" value="4512674976714" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment1" value="3010318235123" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment1/build.gradle" value="3962869359" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment2" value="3010490777352" />
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment2/build.gradle" value="3962869359" />
+        <entry key="$PROJECT_DIR$/udemy-serverless/build.gradle" value="3106478504" />
+        <entry key="$PROJECT_DIR$/udemy-serverless/gradle/wrapper/gradle-wrapper.properties" value="829777938" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$/udemy-serverless">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/udemy-serverless">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/udemy-serverless" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="udemy-serverless" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/ant-1.9.6.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-base-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-base-services-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-cli-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-core-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-docs-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-installation-beacon-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-jvm-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-launcher-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-logging-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-messaging-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-model-core-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-model-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-open-api-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-process-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-resources-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-script-kotlin-0.3.2.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-tooling-api-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-ui-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-wrapper-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-announce-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-antlr-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-build-comparison-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-build-init-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-code-quality-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-composite-builds-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-dependency-management-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-diagnostics-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ear-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-play-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ivy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-jacoco-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-javascript-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-jetty-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-java-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-scala-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-maven-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-osgi-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-base-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-play-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugin-development-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugin-use-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugins-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-publish-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-reporting-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-http-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-s3-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-sftp-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-scala-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-signing-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-task-cache-http-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-test-kit-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-base-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-tooling-api-builders-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/udemy-serverless/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/udemy-serverless/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment1">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/udemy-serverless-assignment1">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/udemy-serverless-assignment1" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="udemy-serverless-assignment1" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/ant-1.9.6.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-base-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-base-services-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-cli-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-core-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-docs-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-installation-beacon-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-jvm-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-launcher-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-logging-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-messaging-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-model-core-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-model-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-open-api-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-process-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-resources-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-script-kotlin-0.3.2.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-tooling-api-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-ui-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-wrapper-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-announce-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-antlr-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-build-comparison-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-build-init-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-code-quality-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-composite-builds-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-dependency-management-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-diagnostics-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ear-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-play-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ivy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-jacoco-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-javascript-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-jetty-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-java-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-scala-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-maven-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-osgi-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-base-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-play-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugin-development-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugin-use-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugins-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-publish-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-reporting-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-http-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-s3-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-sftp-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-scala-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-signing-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-task-cache-http-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-test-kit-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-base-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-tooling-api-builders-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/udemy-serverless-assignment1/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/udemy-serverless-assignment1/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/udemy-serverless-assignment2">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/udemy-serverless-assignment2">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$/udemy-serverless-assignment2" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="udemy-serverless-assignment2" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/ant-1.9.6.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-base-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-base-services-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-cli-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-core-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-docs-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-installation-beacon-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-jvm-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-launcher-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-logging-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-messaging-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-model-core-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-model-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-open-api-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-process-services-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-resources-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-script-kotlin-0.3.2.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-tooling-api-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-ui-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/gradle-wrapper-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/groovy-all-2.4.7.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-announce-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-antlr-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-build-comparison-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-build-init-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-code-quality-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-composite-builds-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-dependency-management-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-diagnostics-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ear-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ide-play-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-ivy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-jacoco-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-javascript-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-jetty-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-groovy-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-java-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-language-scala-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-maven-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-osgi-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-base-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-platform-play-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugin-development-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugin-use-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-plugins-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-publish-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-reporting-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-http-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-s3-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-resources-sftp-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-scala-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-signing-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-task-cache-http-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-test-kit-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-base-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-jvm-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-testing-native-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/gradle-tooling-api-builders-3.1.jar" />
+                  <option value="C:/Raistlin/Development/Java/Tools/Gradle/gradle-3.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/udemy-serverless-assignment2/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/udemy-serverless-assignment2/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/put/model/ApiPutRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/put/model/ApiPutResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/post/model/ApiPostResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/common/model/SavedDataResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/put/handler/ApiPutHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/post/handler/ApiPostHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/get/model/ApiGetResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/get/handler/ApiGetHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/post/handler/ApiPostHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/post/model/ApiPostRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/put/handler/ApiPutHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/put/model/ApiPutRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/handler/ApiGetHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/model/ApiGetRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/model/ApiGetResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/model/GetUserDataResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/model/GetUserDataRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/get/model/GetAllDataResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/model/ApiDeleteRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/model/ApiDeleteResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/model/DeleteDataResponse.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/model/DeleteDataRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/handler/ApiDeleteHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/domain/CompareData.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/common/model/CompareDataModel.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/post/model/CreateDataRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/common/request/UserByIdRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/put/model/UpdateDataRequest.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/resources/log4j.properties" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/repository/impl/CompareDataDynamoDBImpl.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/post/handler/CreateDataHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/build.gradle" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/get/handler/GetAllDataHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/handler/DeleteDataHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/put/handler/UpdateDataHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/handler/GetUserDataHandler.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/firstAssignment/form.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/package.json" />
+        <option value="$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/core/PersistenceManager.java" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/form.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/list.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/public/javascripts/compareApp.js" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/signup.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/signin.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/error.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/auth/signup.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/auth/confirm.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/views/auth/signin.pug" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/app.js" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/routes/auth.js" />
+        <option value="$PROJECT_DIR$/udemy-serverless-client/routes/compareYourself.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\REPO\Maven" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/udemy-serverless-client/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="1848" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralScala</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-serverless-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-serverless-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-serverless-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="auth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AWS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="udemy-serverless-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="nodejs_interpreter_path" value="C:/Raistlin/Development/nodejs/node" />
+    <property name="last_opened_file_path" value="C:/Raistlin/Development/nodejs/node.exe" />
+    <property name="javascript.nodejs.core.library.configured.version" value="8.2.1" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.29605263" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="extract.method.default.visibility" value="private" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Workspace\IDEA\2017\Projects\AWS\udemy-serverless-client\views\auth" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\AWS\udemy-serverless-client\views\secondAssignment" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\AWS\udemy-serverless-client\routes" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\AWS\udemy-serverless-assignment1\src\main\java\udemy\course\aws\serverless\assignment1" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\AWS\udemy-serverless-assignment1\src\main\java" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Workspace\IDEA\2017\Projects\AWS\udemy-serverless-client\views\auth" />
+      <recent name="E:\Workspace\IDEA\2017\Projects\AWS\udemy-serverless-client\views\firstAssignment" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.bin\www">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-serverless" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="TARGET" value="" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="udemy-serverless" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PyBehaveRunConfigurationType" factoryName="Behave">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-serverless" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PyLettuceRunConfigurationType" factoryName="Lettuce">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-serverless" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="ADDITIONAL_ARGS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-serverless" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <module name="udemy-serverless" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-serverless" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="udemy-serverless" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <classRegexps />
+      <testRegexps />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Node.js.bin\www" />
+    </list>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="lastUpdateTimestamp" value="1505658918169" />
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b939162d-90fd-4ba1-88b8-b9aa02cafc2d" name="Default" comment="" />
+      <created>1503148229218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1503148229218</updated>
+      <workItem from="1503148230540" duration="3957000" />
+      <workItem from="1503259675548" duration="1708000" />
+      <workItem from="1503345021174" duration="4945000" />
+      <workItem from="1503866914632" duration="1544000" />
+      <workItem from="1505076139921" duration="2252000" />
+      <workItem from="1505158785845" duration="1110000" />
+      <workItem from="1505159929426" duration="3975000" />
+      <workItem from="1505244561065" duration="4310000" />
+      <workItem from="1505329189572" duration="5040000" />
+      <workItem from="1505417126827" duration="4264000" />
+      <workItem from="1505655154437" duration="15186000" />
+      <workItem from="1505848860558" duration="3677000" />
+      <workItem from="1505938647266" duration="1925000" />
+      <workItem from="1505941601463" duration="1172000" />
+      <workItem from="1506019532032" duration="6675000" />
+      <workItem from="1506187699422" duration="5368000" />
+      <workItem from="1506278944760" duration="1138000" />
+    </task>
+    <task id="LOCAL-00001" summary="nodejs client module">
+      <created>1503261368734</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503261368734</updated>
+    </task>
+    <task id="LOCAL-00002" summary="assignment">
+      <created>1503350760725</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1503350760725</updated>
+    </task>
+    <task id="LOCAL-00003" summary="lambda and client refactoring">
+      <created>1505165094286</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1505165094286</updated>
+    </task>
+    <task id="LOCAL-00004" summary="second assignment">
+      <created>1505251737680</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1505251737680</updated>
+    </task>
+    <task id="LOCAL-00005" summary="compare-yourself api overhaul">
+      <created>1505684248587</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1505684248587</updated>
+    </task>
+    <task id="LOCAL-00006" summary="compare-yourself pug-bootstrap">
+      <created>1505684281064</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1505684281064</updated>
+    </task>
+    <task id="LOCAL-00007" summary="client ui refactoring">
+      <created>1505855729142</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1505855729142</updated>
+    </task>
+    <task id="LOCAL-00008" summary="client ui auth pages">
+      <created>1505942747976</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1505942747976</updated>
+    </task>
+    <task id="LOCAL-00009" summary="cognito stuff">
+      <created>1506281049464</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1506281049464</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="68246000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="-4" width="1848" height="1088" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Regex Tester" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2873807" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2880979" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298109" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21635151" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="nodejs client module" />
+    <MESSAGE value="assignment" />
+    <MESSAGE value="lambda and client refactoring" />
+    <MESSAGE value="second assignment" />
+    <MESSAGE value="compare-yourself api overhaul" />
+    <MESSAGE value="compare-yourself pug-bootstrap" />
+    <MESSAGE value="client ui refactoring" />
+    <MESSAGE value="client ui auth pages" />
+    <MESSAGE value="cognito stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="cognito stuff" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/get/model/GetAllDataRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="30" lean-forward="false" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/get/model/GetAllDataResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="16" column="46" lean-forward="false" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/common/response/SavedDataResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="62" lean-forward="false" selection-start-line="10" selection-start-column="62" selection-end-line="10" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/model/DeleteDataResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="31" lean-forward="false" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/model/GetUserDataRequest.java" />
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/model/GetUserDataResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/model/DeleteDataRequest.java" />
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/put/model/UpdateDataRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/common/model/CompareDataModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/REPO/Gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dynamodb/1.11.197/20e5653af191d511d989b7334a7d4063aa29693c/aws-java-sdk-dynamodb-1.11.197-sources.jar!/com/amazonaws/services/dynamodbv2/AmazonDynamoDBClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="29" column="52" lean-forward="false" selection-start-line="29" selection-start-column="52" selection-end-line="29" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="27" lean-forward="false" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="1" lean-forward="false" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/repository/impl/CompareDataDynamoDBImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-20">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/REPO/Gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.197/4b143aa729117490924264c2bbbfa9ead3a2df60/aws-java-sdk-core-1.11.197-sources.jar!/com/amazonaws/client/builder/AwsClientBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="151" column="60" lean-forward="false" selection-start-line="151" selection-start-column="60" selection-end-line="151" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/REPO/Gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.197/4b143aa729117490924264c2bbbfa9ead3a2df60/aws-java-sdk-core-1.11.197-sources.jar!/com/amazonaws/regions/Regions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/delete/handler/DeleteDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="43" lean-forward="false" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/get/handler/GetAllDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="43" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/compare.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/firstAssignment/form.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/node_modules/pug-bootstrap/_bootstrap.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/node_modules/pug-bootstrap/components/tables.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/secondAssignment/form.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="57" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="21" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/domain/CompareData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="39" column="28" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/post/handler/CreateDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="31" column="26" lean-forward="false" selection-start-line="31" selection-start-column="26" selection-end-line="31" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/root/post/model/CreateDataRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="27" lean-forward="false" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/get/handler/GetUserDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/common/request/UserByIdRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/api/user/put/handler/UpdateDataHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/REPO/Gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-dynamodb/1.11.197/20e5653af191d511d989b7334a7d4063aa29693c/aws-java-sdk-dynamodb-1.11.197-sources.jar!/com/amazonaws/services/dynamodbv2/datamodeling/DynamoDBMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="281" column="38" lean-forward="false" selection-start-line="281" selection-start-column="18" selection-end-line="281" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/REPO/Gradle/caches/modules-2/files-2.1/com.amazonaws/aws-java-sdk-core/1.11.197/4b143aa729117490924264c2bbbfa9ead3a2df60/aws-java-sdk-core-1.11.197-sources.jar!/com/amazonaws/ClientConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="1291" column="31" lean-forward="false" selection-start-line="1291" selection-start-column="31" selection-end-line="1291" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless/src/main/java/udemy/course/aws/serverless/core/PersistenceManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/form.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/public/javascripts/compareApp.js" />
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/list.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="14" lean-forward="false" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/node_modules/amazon-cognito-identity-js/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-320">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/node_modules/amazon-cognito-identity-js/dist/amazon-cognito-identity.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1020">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/node_modules/amazon-cognito-identity-js/dist/aws-cognito-sdk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/node_modules/amazon-cognito-identity-js/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="92" column="37" lean-forward="false" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/error.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/routes/firstAssignment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="32" lean-forward="false" selection-start-line="17" selection-start-column="28" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/compareYourself/error.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="28" lean-forward="false" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/routes/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/bin/server">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/node_modules/pug-bootstrap/layouts/bootswatch.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/auth/signup.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="21" lean-forward="false" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="14" lean-forward="false" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/auth/confirm.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/views/auth/signin.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="37" lean-forward="false" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/routes/auth.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2700">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/udemy-serverless-client/routes/compareYourself.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="11" lean-forward="false" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.5.2 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>udemy-serverless</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.29605263" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: com.amazonaws:aws-java-sdk-cognitoidentity:1.11.192</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
